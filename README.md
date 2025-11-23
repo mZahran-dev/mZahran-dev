@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer Specialized in Web Development
 - 👨‍💻 As a CS Graduate, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, AngularJS, and .Net, or anything related to web development.
+- 💬 Ask me about my experience with .Net, or anything related to web development.
 
 
 
